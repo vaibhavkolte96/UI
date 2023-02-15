@@ -1,4 +1,4 @@
-package com.vasu.temp;
+package com.vasu.ui;
 
 import android.content.Context;
 

@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace 'com.vasu.temp'
+    namespace 'com.vasu.ui'
     compileSdk 33
 
     defaultConfig {
